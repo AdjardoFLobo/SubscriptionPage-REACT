@@ -1,3 +1,5 @@
+Adjardo's comments : I have created this simple React app page to practice the fundamentals of Function Components as well as using logic with React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
